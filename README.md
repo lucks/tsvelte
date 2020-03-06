@@ -1,2 +1,0 @@
-# tsvelte
-Begin app
