@@ -1,5 +1,5 @@
 @app
-begin-app
+ship-z1z
 
 @static
 
